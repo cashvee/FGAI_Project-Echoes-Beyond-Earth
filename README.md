@@ -149,10 +149,8 @@ The temperature experiment demonstrates that sampling temperature affects text d
 
 ## 10. Output Files
 
-The `assignment_results` directory contains:
-
-- `model_comparison.csv` — quantitative model comparison
-- `generated_samples.csv` — generated text at three temperatures
+- `model_comparison.csv` — quantitative comparison of all four models
+- `generated_samples.csv` — generated text at temperatures 0.3, 0.7, and 1.0
 - `test_loss.png` — test-loss comparison
-- `accuracy.png` — test-accuracy comparison
+- `test_accuracy.png` — test-accuracy comparison
 - `perplexity.png` — perplexity comparison
