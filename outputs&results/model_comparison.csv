@@ -1,0 +1,5 @@
+Model,Test Loss,Accuracy (%),Perplexity,Training Time (seconds)
+Simple RNN,6.7376,10.29,843.5,408.02
+Bidirectional RNN,6.7372,9.62,843.22,400.94
+LSTM,6.9438,9.8,1036.68,853.86
+GRU,6.7711,10.09,872.31,879.94
