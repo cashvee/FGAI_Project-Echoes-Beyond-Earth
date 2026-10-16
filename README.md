@@ -17,7 +17,7 @@ The project uses three science-fiction texts:
 
 The combined corpus contains approximately **175,872 words** after whitespace normalization. It includes narrative prose, dialogue, science-fiction terminology, and descriptions of characters and settings.
 
-**Dataset source:** [Kaggle — Add the original dataset link here](https://www.kaggle.com/)
+**Dataset source:** [https://www.kaggle.com/datasets/atharvaatulrege/quantumquill-scifi-dataset](https://www.kaggle.com/datasets/atharvaatulrege/quantumquill-scifi-dataset)
 
 ### Preprocessing
 
